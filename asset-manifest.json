@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iRecipe/static/css/main.97304a66.chunk.css",
+    "main.js": "/iRecipe/static/js/main.35f002b4.chunk.js",
+    "main.js.map": "/iRecipe/static/js/main.35f002b4.chunk.js.map",
+    "runtime-main.js": "/iRecipe/static/js/runtime-main.8a6482e2.js",
+    "runtime-main.js.map": "/iRecipe/static/js/runtime-main.8a6482e2.js.map",
+    "static/js/2.f680bf24.chunk.js": "/iRecipe/static/js/2.f680bf24.chunk.js",
+    "static/js/2.f680bf24.chunk.js.map": "/iRecipe/static/js/2.f680bf24.chunk.js.map",
+    "index.html": "/iRecipe/index.html",
+    "precache-manifest.75c0d397a94d2d915bdcc64cc2ecce4e.js": "/iRecipe/precache-manifest.75c0d397a94d2d915bdcc64cc2ecce4e.js",
+    "service-worker.js": "/iRecipe/service-worker.js",
+    "static/css/main.97304a66.chunk.css.map": "/iRecipe/static/css/main.97304a66.chunk.css.map",
+    "static/js/2.f680bf24.chunk.js.LICENSE.txt": "/iRecipe/static/js/2.f680bf24.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/iRecipe/static/media/AppBackground.d97485c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a6482e2.js",
+    "static/js/2.f680bf24.chunk.js",
+    "static/css/main.97304a66.chunk.css",
+    "static/js/main.35f002b4.chunk.js"
+  ]
+}

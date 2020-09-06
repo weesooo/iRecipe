@@ -1,0 +1,117 @@
+.form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #d3d3d3;
+	border-radius: 0.5rem;
+	box-shadow: 1rem 2rem 5rem #aaa;
+	position: relative;
+}
+
+.header>h1 {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	justify-content: center;
+}
+
+.header>h1>.MuiSvgIcon-root {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 45px;
+}
+
+.search {
+	width: 263px;
+	height: 25px;
+	text-align: center;
+	justify-content: center;
+}
+
+.searchbutton {
+	color: black;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.search input[type="text"] {
+	padding: 0 0.5rem;
+	width: 60%;
+	color: #555;
+}
+
+.recipes {
+	width: 90%;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.recipe {
+	width: 30rem;
+	margin: 1.4rem;
+	display: flex;
+	flex-direction: column;
+	background-color: black;
+	padding: 1rem;
+	position: relative;
+	border-radius: 1rem;
+	box-shadow: 0rem 2rem 3rem #aaa;
+}
+
+.recipes>.recipe>.buttn>.MuiSvgIcon-root {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 33px;
+}
+
+.recipe h2 {
+	background-color: rgba(161, 161, 161, 0.7);
+	border-radius: 1rem;
+	padding: 0.3rem 0.9rem;
+	position: absolute;
+	top: 2.5rem;
+	left: 2.5rem;
+	right: 2.5rem;
+	text-align: center;
+	font-size: 2.5rem;
+	font-weight: 300;
+	text-shadow: 0 0.9rem 0.5rem #555;
+	color: #fff;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.recipe img {
+	border-radius: 1rem;
+	object-fit: fill;
+}
+
+.recipe button {
+	font-size: 3.3rem;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: red;
+	border: none;
+	border-radius: 0.3rem;
+	height: 5rem;
+}
+
+.ingredient-list {
+	margin-top: 1rem;
+	background-color: #f0f0f0;
+	border-radius: 0.5rem;
+	padding: 0.5rem;
+}
+
+.ingredient-list li {
+	margin: 0.5rem 0;
+}
+
+.ingredient-text {
+	font-size: 1.5rem;
+	color: #888;
+}
+
+.ingredient-weight {
+	color: red;
+	font-size: 1.3rem;
+}
